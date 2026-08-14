@@ -189,23 +189,6 @@ profile <- new_aqua_species_profile(
 
 `expected_inbreeding_proxy` 与 `mendelian_sampling_proxy` 是当前原型的比较指标。论文级应用应以经过标定的共祖/亲缘矩阵和物种特异的后代遗传方差模型替换它们。
 
-## 当前版本定位
-
-这是 AquaMateR 0.5.0 研究原型版，适合用于：
-
-- 青年基金项目汇报
-- R 包开发起点
-- 模拟实验
-- 方法学论文预研
-- 真实水产数据试跑
-
-如果要冲击高水平文章，建议下一步加入：
-
-- NSGA-II 与 OCS 的混合优化
-- 个体层面的多代基因组模拟
-- 物种特异的 Usefulness Criterion 后代潜力模型
-- G×E 多环境选配与同胞挑战试验模块
-- 抗病、生长、存活率等多性状指数
 
 ## 如何引用
 
