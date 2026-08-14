@@ -200,7 +200,7 @@ citation("AquaMateR")
 
 推荐引用格式：
 
-> Li L (2026). *AquaMateR: Hatchery-Aware Genomic Mate Allocation for Aquaculture Breeding*. R package version 0.5.0. Xiamen University. https://github.com/liyin2/AquaMateR
+> Li Y (2026). *AquaMateR: Hatchery-Aware Genomic Mate Allocation for Aquaculture Breeding*. R package version 0.5.0. Xiamen University. https://github.com/liyin2/AquaMateR
 
 仓库根目录中的 `CITATION.cff` 可被 GitHub 和文献管理工具识别。
 
